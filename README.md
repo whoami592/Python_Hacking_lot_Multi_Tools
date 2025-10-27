@@ -33,3 +33,7 @@ Disclaimer:
 This project is made for educational and ethical purposes only.
 Do not use these tools for unauthorized testing or illegal activities.
 The author is not responsible for any misuse. Coded By Pakistani Ethical Hacker Mr sabaz ali khan
+
+<img width="642" height="708" alt="Generated Image September 27, 2025 - 5_05AM (1)" src="https://github.com/user-attachments/assets/f88157f1-5b2a-4868-aab3-c981f2221b2d" />
+
+
