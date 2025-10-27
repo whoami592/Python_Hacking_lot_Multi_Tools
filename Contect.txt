@@ -1,0 +1,52 @@
+Name / نام: Sabaz Ali Khan
+
+Role / عہدہ: Pakistani Ethical Hacker / Cybersecurity Enthusiast
+
+Location / مقام: Pakistan
+
+Contact / رابطہ 923409777222 923369696667
+
+براہِ کرم ذاتی یا حساس تفصیلات (مثلاً ذاتی فون نمبر) صرف اسی صورت شامل کریں جب آپ اسے شیئر کرنا چاہتے ہوں۔
+
+Email / ای میل: Sabazali236@gmail.com  
+
+Telegram / ٹیلیگرام: @
+
+Twitter / X: @Sabaz Ali khan
+
+LinkedIn / لنکڈ اِن: https://www.linkedin.com/in/sabaz-ali-khan-39626b361/
+
+YouTube / یوٹیوب چینل: https://www.youtube.com/@Mr_Sabaz_Ali_KHAN_HACKING_SERI
+
+Website / ویب سائٹ: https://sabazalikhancybersecurity.wordpress.com/
+
+Open for / میں دستیاب ہوں
+
+Bug bounties / بگ بانٹیز
+
+Collaboration on security projects / سیکیورٹی پراجیکٹس میں تعاون
+
+Talks & workshops / تقاریر اور ورکشاپس
+
+PGP / GPG (optional)
+
+If you use a PGP key for secure email, paste the public key block here so people can verify messages.
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+...your public key...
+-----END PGP PUBLIC KEY BLOCK-----
+Short bio / مختصر تعارف
+Sabaz Ali Khan — Pakistani ethical hacker focused on web app security, bug bounty hunting and security education. Open to collaboration and security research.
+How to add this to your GitHub profile
+
+Create a repository named exactly as your GitHub username (e.g., sabazalikhan).
+
+Add this contact.md (or rename to CONTACT.md) to the repo's root.
+
+Optionally reference it from your README.md or pin the repo on your profile so visitors see your contact info.
+
+Notes / نوٹس:
+
+Replace every placeholder (your.email@example.com, @your_telegram, etc.) with your real links.
+
+If you want, میں آپ کے لیے placeholders کو حقیقی لنکس میں بدل دوں — بس وہ تفصیلات بھیج دیں۔
